@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, soy Luis Fidel Alomia A</h1>
+<h1 align="center">Hola 👋, soy Luis Fidel Alomia V</h1>
 <h3 align="center">Un apasionado desarrollador Web</h3>
 
-- 👨‍💻 Puedes ver mis proyectos en [https://flav-portfolio.netlify.app](https://flav-portfolio.netlify.app)
+- 👨‍💻 Puedes ver mis proyectos en [https://flav-luisfidelalomiav.netlify.app/](https://flav-luisfidelalomiav.netlify.app/)
 
-- 💬 Temas que me interesan **Html, CSS, JavaScript, React**
+- 💬 Temas que me interesan **Html, CSS, JavaScript, React, Node JS, Express**
 
 - 📫 Me puedes encontrar en **https://www.linkedin.com/in/luis-fidela-alomia-valencia-87b24923b/**
 

@@ -1,5 +1,7 @@
+![](https://github.com/LuisAlomia/LuisAlomia/blob/main/imagen%20linkedin.PNG)
+
 <h1 align="center">Hola 👋, soy Luis Fidel Alomia V</h1>
-<h3 align="center">Un apasionado desarrollador Web</h3>
+<h3 align="center">Un apasionado desarrollador Web Full stack</h3>
 
 - 👨‍💻 Puedes ver mis proyectos en [https://flav-luisfidelalomiav.netlify.app/](https://flav-luisfidelalomiav.netlify.app/)
 
